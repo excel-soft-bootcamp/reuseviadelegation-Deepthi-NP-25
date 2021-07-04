@@ -1,0 +1,12 @@
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\bin\Debug\netcoreapp3.1\ReUseDelegate.exe
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\bin\Debug\netcoreapp3.1\ReUseDelegate.deps.json
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\bin\Debug\netcoreapp3.1\ReUseDelegate.runtimeconfig.json
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\bin\Debug\netcoreapp3.1\ReUseDelegate.runtimeconfig.dev.json
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\bin\Debug\netcoreapp3.1\ReUseDelegate.dll
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\bin\Debug\netcoreapp3.1\ReUseDelegate.pdb
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\obj\Debug\netcoreapp3.1\ReUseDelegate.AssemblyInfoInputs.cache
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\obj\Debug\netcoreapp3.1\ReUseDelegate.AssemblyInfo.cs
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\obj\Debug\netcoreapp3.1\ReUseDelegate.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\obj\Debug\netcoreapp3.1\ReUseDelegate.dll
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\obj\Debug\netcoreapp3.1\ReUseDelegate.pdb
+C:\Users\deepthi.np\source\repos\DEMO12\ReUseDelegate\obj\Debug\netcoreapp3.1\ReUseDelegate.genruntimeconfig.cache
